@@ -1,1 +1,2 @@
 # Screenshot
+Annotations are used.
